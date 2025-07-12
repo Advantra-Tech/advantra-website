@@ -42,7 +42,7 @@ const FooterSection = () => {
                                       <img src={Advantra} className=' size-40' alt="" />
                                    </div>
 
-                                <p className=' text-gray-600 mb-6 md:w-3/4'> we believe in fostering growth, collaboration, and excellence through impactful learning experiences and expert guidance.</p>
+                                <p className=' text-gray-600 mb-6 md:w-3/4'> We believe in fostering growth, collaboration, and excellence through impactful learning experiences and expert guidance.</p>
 
                                 <div className=' flex gap-4'>
                                        <a href="" className='w-10 h-10 bg-gray-200 rounded-full flex items-center justify-center
