@@ -2,7 +2,7 @@
   "name": "nike-clone",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://advantra-tech.github.io/advantra-website",
+  "homepage": "https://advantra.tech",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
